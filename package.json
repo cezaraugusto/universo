@@ -2,6 +2,15 @@
     "name": "universo",
     "displayName": "Universo",
     "description": "",
+    "homepage": "https://github.com/cezaraugusto/universo/blob/master/README.md",
+    "bugs": {
+      "url": "https://github.com/cezaraugusto/universo/issues",
+      "email": "boss@cezaraugusto.net"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:cezaraugusto/universo.git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
