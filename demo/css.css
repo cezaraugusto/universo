@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+}
+
+.class {
+  font-style: italic;
+}
+
+::selection {
+  background-color: red;
+}
