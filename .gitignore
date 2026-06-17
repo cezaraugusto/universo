@@ -1,0 +1,8 @@
+# Secrets , never commit
+.env
+.env.*
+*.vsix
+
+# Dependencies / build
+node_modules/
+.vscode-test/

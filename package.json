@@ -2,11 +2,12 @@
     "name": "universo",
     "publisher": "cezaraugusto",
     "displayName": "Universo",
+    "icon": "images/icon.png",
     "galleryBanner": {
-      "color": "#FFFFFF",
+      "color": "#12181B",
       "theme": "dark"
     },
-    "description": "",
+    "description": "A calm dark theme with a cyan, pink, green, and purple accent palette.",
     "license": "MIT",
     "homepage": "https://github.com/cezaraugusto/universo/blob/master/README.md",
     "bugs": {
@@ -15,18 +16,20 @@
     },
     "repository": {
       "type": "git",
-      "url": "git@github.com:cezaraugusto/universo.git"
+      "url": "https://github.com/cezaraugusto/universo.git"
     },
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
-        "vscode": "^1.45.0"
+        "vscode": "^1.70.0"
     },
     "categories": [
         "Themes"
     ],
     "keywords": [
       "color-theme",
+      "vscode-theme",
       "dark",
+      "dark-theme",
       "universo",
       "theme"
     ],
