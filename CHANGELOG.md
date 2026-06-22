@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.1] - 2026-06-22
+
+- Replace the retired shields.io Marketplace badges in the README with a working provider.
+
 ## [1.0.0] - 2026-06-15
 
 - Initial public release.
