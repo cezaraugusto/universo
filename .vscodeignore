@@ -4,6 +4,6 @@
 vsc-extension-quickstart.md
 demo/**
 
-# secrets , never package
+# secrets: never package
 .env
 .env.*
