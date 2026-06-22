@@ -1,8 +1,8 @@
 # Universo
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/cezaraugusto.universo)](https://marketplace.visualstudio.com/items?itemName=cezaraugusto.universo)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/cezaraugusto.universo)](https://marketplace.visualstudio.com/items?itemName=cezaraugusto.universo)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/cezaraugusto.universo)](https://marketplace.visualstudio.com/items?itemName=cezaraugusto.universo)
+[![Version](https://vsmarketplacebadges.dev/version-short/cezaraugusto.universo.svg)](https://marketplace.visualstudio.com/items?itemName=cezaraugusto.universo)
+[![Installs](https://vsmarketplacebadges.dev/installs-short/cezaraugusto.universo.svg)](https://marketplace.visualstudio.com/items?itemName=cezaraugusto.universo)
+[![Rating](https://vsmarketplacebadges.dev/rating-short/cezaraugusto.universo.svg)](https://marketplace.visualstudio.com/items?itemName=cezaraugusto.universo)
 
 > A calm dark theme for VS Code with a cyan, pink, green, and purple accent palette.
 
